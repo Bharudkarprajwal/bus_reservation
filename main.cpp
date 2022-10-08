@@ -75,7 +75,7 @@ void a::add_new_number_of_bus()
   cin>>bus[t].b_to;
 
   bus[t].empty();
-  cout<<"\New Bus Added Successfully \t\t\t";
+  cout<<"\n New Bus Added Successfully \t\t\t";
   t++;
 
 }
